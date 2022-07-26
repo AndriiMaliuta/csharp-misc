@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "iS9OsMcUa416CzHgq+ixG1c8wQPnEHZwGO9O5JLk26bT46/0VJyMeTG8toDx8BPvG7DtwmAOU+QHI0/endb2QQ==",
+  "success": true,
+  "projectFilePath": "G:\\andrii\\programming\\chasrp\\csharp-misc\\chasrp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quadr\\.nuget\\packages\\eliot.uelib.dll\\1.2.9\\eliot.uelib.dll.1.2.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Eliot.UELib.dll 1.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Eliot.UELib.dll",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

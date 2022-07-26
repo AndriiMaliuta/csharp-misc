@@ -1,0 +1,15 @@
+G:\andrii\programming\chasrp\csharp-misc\bin\Debug\net6.0\chasrp.exe
+G:\andrii\programming\chasrp\csharp-misc\bin\Debug\net6.0\chasrp.deps.json
+G:\andrii\programming\chasrp\csharp-misc\bin\Debug\net6.0\chasrp.runtimeconfig.json
+G:\andrii\programming\chasrp\csharp-misc\bin\Debug\net6.0\chasrp.dll
+G:\andrii\programming\chasrp\csharp-misc\bin\Debug\net6.0\chasrp.pdb
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.csproj.AssemblyReference.cache
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.GeneratedMSBuildEditorConfig.editorconfig
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.AssemblyInfoInputs.cache
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.AssemblyInfo.cs
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.csproj.CoreCompileInputs.cache
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.dll
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\refint\chasrp.dll
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.pdb
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\chasrp.genruntimeconfig.cache
+G:\andrii\programming\chasrp\csharp-misc\obj\Debug\net6.0\ref\chasrp.dll

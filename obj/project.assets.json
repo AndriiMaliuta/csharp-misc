@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Eliot.UELib.dll/1.2.9": {
+        "type": "package",
+        "compile": {
+          "lib/net472/Eliot.UELib.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Eliot.UELib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eliot.UELib.dll/1.2.9": {
+      "sha512": "WyNvD700bQzdnHOyfOTCo5fiAwdWQwNaQwJAfRblLrvLQUCTapPUPUNWHD5rP110O16/eTOsPAOkM8a8HlG6Dw==",
+      "type": "package",
+      "path": "eliot.uelib.dll/1.2.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docs/README.md",
+        "eliot.uelib.dll.1.2.9.nupkg.sha512",
+        "eliot.uelib.dll.nuspec",
+        "lib/net472/Eliot.UELib.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Eliot.UELib.dll >= 1.2.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\quadr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\andrii\\programming\\chasrp\\csharp-misc\\chasrp.csproj",
+      "projectName": "chasrp",
+      "projectPath": "G:\\andrii\\programming\\chasrp\\csharp-misc\\chasrp.csproj",
+      "packagesPath": "C:\\Users\\quadr\\.nuget\\packages\\",
+      "outputPath": "G:\\andrii\\programming\\chasrp\\csharp-misc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\quadr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Eliot.UELib.dll": {
+            "target": "Package",
+            "version": "[1.2.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Eliot.UELib.dll 1.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Eliot.UELib.dll",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
