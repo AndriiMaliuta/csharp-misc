@@ -2,7 +2,7 @@
 using System;
 
 // Your program starts here:
-Console.WriteLine("Hello world!");
+// Console.WriteLine("Hello world!");
 
 namespace YourNamespace
 {
