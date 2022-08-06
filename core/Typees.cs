@@ -2,7 +2,7 @@ namespace csharp_misc.core
 {
     public class Typees
     {
-        public void TypesOne() 
+        public void TypesOne()
         {
             // Declaration only:
             float temperature;
@@ -25,5 +25,13 @@ namespace csharp_misc.core
                 return String.Empty;
         }
         private string[] names = { "Spencer", "Sally", "Doug" };
+        int cardNumber = 12; string suite = "spades";
+        string cardName = (cardNumber, suite) switch
+        {
+            (13, "spades") => "King of spades",
+            (13, "clubs") => "King of clubs",
+            //...
+        };
+
     }
 }
